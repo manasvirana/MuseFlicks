@@ -2,7 +2,7 @@
 
 # MuseFlicks
 
-MuseFlicks is a sophisticated movie recommendation system that leverages various technologies and methodologies to provide personalized movie suggestions based on user preferences and content similarity.  It utilizes the Bag-of-Words (BoW) technique to process movie descriptions and enhance user experience.
+MuseFlicks is your personalized movie recommendation system!
 
 ## Features
 
