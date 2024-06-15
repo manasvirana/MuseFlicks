@@ -40,7 +40,7 @@ MuseFlicks is your personalized movie recommendation system!
 
 ### Overview
 
-By combining Bag-of-Words with other techniques, MuseFlicks offers precise and personalized movie recommendations. The BoW approach effectively analyzes movie descriptions, enabling the system to suggest movies with similar themes and narratives. This enhances user experience with recommendations that align with their preferences.
+MuseFlick is a project designed to suggest top movies based on a curated dataset. It provides users with movie recommendations along with posters brief overviews and google search links for comprehensive information for each suggested film. 
 
 ## External APIs
 
