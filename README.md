@@ -80,16 +80,10 @@ To get a local copy up and running, follow these simple steps:
   - Open your web browser and go to [http://localhost:8501](http://localhost:8501).
 
 
-**Additional Notes:**
 
-* Consider specifying the Python libraries used for implementing BoW and stemming in your `requirements.txt` file.
-* You might want to include a section on how users can customize the BoW parameters (e.g., stop words list) for personalized recommendations.
+##Live Link:https://museflicks.onrender.com/
 
-This revised documentation showcases your project's use of the Bag-of-Words technique and provides a clear path for users to set up and run MuseFlicks locally.
-
-Live Link: MuseFlicks Live Demo
-
-Note: Please be aware that the free instance powering this demo may spin down due to inactivity. This could lead to initial requests experiencing delays of 50 seconds or more until the instance restarts. Thank you for your understanding
+**Note: Please be aware that the free instance powering this demo may spin down due to inactivity. This could lead to initial requests experiencing delays of 50 seconds or more until the instance restarts. Thank you for your understanding
 
 
 
